@@ -1,5 +1,5 @@
 # libkdtree
-A KD-Tree model written in C++(with C and Python interface).
+A KD-Tree model written in C++ with C interface).
 
 ## Usage
 ### C
