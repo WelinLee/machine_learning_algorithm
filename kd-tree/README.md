@@ -40,7 +40,7 @@ int main()
 * `make`
 * `cd ..`
 ### Windows
-Use *cmake-gui* to build(If your operating system is **Windows 10 X64** and you have **Visual Studio 2017** installed, you can also run `build.bat`).
+Use *cmake-gui* to build(If your operating system is **Windows 10 X64** and you have **Visual Studio 2017** installed).
 
 ### Build MKL Support
 Intel® Math Kernel Library is a very popular library product from Intel that accelerates math processing routines to increase application performance.
